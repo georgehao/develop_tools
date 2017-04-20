@@ -1,4 +1,4 @@
-首先,参照(去哪网的MySQL文档)[https://github.com/georgehao/develop_tools/blob/master/MySQL/qunar.pdf].
+首先,参照(去哪网的MySQL文档)[https://github.com/georgehao/develop_tools/blob/master/sql/qunar.pdf].
 需要追加的在下面编辑:
 * 表字符集使 utf8mb4_unicode_ci
 * 每个表都要有主键，名称是id，类型为bigint
