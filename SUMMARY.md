@@ -8,5 +8,7 @@
     * [gitbook使用](git/gitbook使用.md)
     * [subtree使用](git/subtree.md)
     * [commitizen使用](git/commitizen使用.md)
+* [linux相关](linux/README.md)
+    * [Linux默认可执行程序](Linux默认可执行程序.md)
 * [Introduction](README.md)
 
